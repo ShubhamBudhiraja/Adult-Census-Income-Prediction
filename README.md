@@ -6,7 +6,7 @@ This project focuses on predicting whether the annual income of an individual is
 4. Observations & Conclusions
 
 # Dataset Visualisation
-The dataset "Adult Census Income" from the UCI Machine Learning Repository was used in this project. The dataset was extracted from the 1994 and 1995 Current Population Surveys conducted by the U.S. Census Bureau. It contains 48,842 entries to be exact with 14 attributes:
+The dataset "Adult Census Income" from the UCI Machine Learning Repository was used in this project. The dataset was extracted from the 1994 and 1995 Current Population Surveys conducted by the U.S. Census Bureau. It contains 48,842 entries to be exact with 15 attributes:
  1. Age
  2. Workclass  
  3. Fnlwgt 
